@@ -1,45 +1,5 @@
 # Leetcode-Problem-solving
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LeetCode Problem Solving</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #282c34;
-            color: white;
-        }
-        h1 {
-            margin: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: white;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        h2 {
-            color: #007acc;
-        }
-        ul {
-            list-style-type: square;
-            padding-left: 20px;
-        }
-    </style>
+
 </head>
 <body>
     <header>
