@@ -3,7 +3,7 @@
 </head>
 <body>
     <header>
-        <h1>LeetCode Problem Solving</h1>
+        
         <p>Journey to mastering algorithms and data structures</p>
     </header>
     <div class="container">
